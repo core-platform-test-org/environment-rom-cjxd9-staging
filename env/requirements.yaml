@@ -13,6 +13,9 @@ dependencies:
 - name: qs-cjxd-node-2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: rom-import-cjxd-3
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: rom-qs-cjxd
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
